@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import "tailwindcss";
+
+body {
+  font-family: "Titillium Web", Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #fff;
+}
